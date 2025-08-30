@@ -1,0 +1,87 @@
+*{
+   font-family: "Poppins", sans-serif;
+   
+}
+.backg{
+    background-color: aliceblue;
+}
+
+.navbar form input{
+    width: 900px;
+    margin-left: 10px;
+    height: 50px;
+    border-radius: 0;
+}
+
+.navbar .navbar-brand img{
+    height: 50px;
+}
+.c1f h4{
+   font-size: 10px;
+   text-align: center;
+}
+.grocery{
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+
+ .fashion{
+    height: 206px;
+    margin-top: 24px;
+    margin-right: -10px;
+ }
+ 
+ .card2  img{
+    width: 100px;
+    height: 100px;
+ }
+ .vivo{
+    margin-top: -15px;
+    width: 850px;
+    height: 680px;
+    border: 2px solid gray;
+ }
+ .Rheight{
+    height: 300px;
+ }
+ .Rheight1{
+    height: 340px;
+ }
+
+ .Rheight2{
+    height: 800px;
+ }
+ .fborder{
+    border: 1px solid black;
+ }
+ .fbg{
+    background-color: rgb(0, 0, 0);
+    
+ }
+ .fbg div h6{
+    color: rgb(131, 127, 127) ;
+ }
+ .fbl{
+    border-left: 1px solid rgb(131, 127, 127) ;
+   
+ }
+ .fbg div ul{
+    color:white;
+    list-style-type: none;
+    font-size: 15px;
+    margin-left: -15px;
+ }
+
+ .icons{
+   width: 50px;
+   height: 10px;
+   font-size: 25px;
+ }
+ .ffs{
+   font-size: 12px;
+   padding: 10px;
+   border-top: 1px solid gray;
+   color:white ;
+ }

@@ -1,0 +1,59 @@
+.logo{
+    width: 25%;
+    height: 100%;
+   
+}
+.logo a img{
+    width: 130px;
+    height: 40px;
+    float: right;
+}
+
+.searchbar{
+    width: 75%;
+    height: 100%;
+}
+.searchbar form input{
+    height: 40px;
+    width: 550px;
+}
+.searchbar form button{
+    width: 110px;
+    height: 40px;
+    float: left;
+    margin-left: 200px;
+}
+.search-icon{
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+    background-color: white;
+     border-radius: 50px;    
+}
+.search-icon i{
+    margin-top: 10px;   
+}
+.maincoloum{
+    height: 718px;
+    width: 100%;
+}
+.leftsection{
+    width: 66%;
+    height:auto ;
+}
+.rightsection{
+    width: 431px;
+   height: 700px;
+}
+.footerlast{
+    width: 100%;
+    margin: 10px;
+}
+ .footerlast tr td{
+    width: 20%;
+    height: 50px;
+    
+ }
+ .reciept{
+    background-color: yellow;
+ }
